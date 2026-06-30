@@ -1,0 +1,1 @@
+<div class="small text-center text-muted fst-italic">Copyright &copy; Oscar Abello & Joel Alcaraz & Zakaria El Khammali 2024</div>

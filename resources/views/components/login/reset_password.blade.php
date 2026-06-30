@@ -1,0 +1,1 @@
+<p id="openModalBtn" class="text-primary small mt-2 text-decoration-underline" style="cursor: pointer;">Restablecer contraseña</p>

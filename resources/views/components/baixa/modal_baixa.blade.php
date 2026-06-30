@@ -1,0 +1,1 @@
+@include('components.modal.modal', ['id' => 'Confirma', 'titol' => 'Confirma'])
